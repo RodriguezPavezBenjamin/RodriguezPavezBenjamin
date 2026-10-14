@@ -22,35 +22,26 @@
 ### Tecnologías y conocimientos
 
 <table>
-<tr><td width="23%"><strong>Lenguajes</strong></td><td><img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&amp;theme=dark" height="40" alt="Python, Java, C, JavaScript, HTML y CSS" /><br><sub>Python · Java · C · JavaScript · HTML · CSS</sub></td></tr>
-<tr><td><strong>Desarrollo y herramientas</strong></td><td><img src="https://skillicons.dev/icons?i=flask,angular,typescript,nestjs,fastapi,git,docker&amp;theme=dark" height="40" alt="Flask, Angular, TypeScript, NestJS, FastAPI, Git y Docker" /><br><sub>Flask · Angular · Ionic · TypeScript · NestJS · FastAPI · Git · Docker · CI</sub></td></tr>
-<tr><td><strong>Datos</strong></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&amp;theme=dark" height="40" alt="MongoDB, MySQL y PostgreSQL" /><br><sub>MongoDB · MySQL · Oracle · PostgreSQL · Pandas · Modelado MER/MR</sub></td></tr>
-<tr><td><strong>Redes y seguridad</strong></td><td>Cisco IOS · FortiOS/FortiGate · FortiManager · Huawei · Active Directory<br><sub>Hardening · MPLS · SD-WAN · SSH · SNMP · LDAP · RDP · NTP · TACACS+</sub></td></tr>
-<tr><td><strong>Automatización</strong></td><td>Python · Netmiko · Flask<br><sub>Auditorías de hardening, tareas de redes y procesamiento de documentos.</sub></td></tr>
+<tr>
+<td width="50%"><img src="assets/tecnologias-lenguajes.svg" alt="Lenguajes: Python, Java, C, JavaScript, HTML y CSS." width="580" /></td>
+<td width="50%"><img src="assets/tecnologias-desarrollo.svg" alt="Desarrollo y herramientas: Flask, Angular, Ionic, TypeScript, NestJS, FastAPI, Git, Docker e integración continua." width="580" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/tecnologias-datos.svg" alt="Datos: MongoDB, MySQL, PostgreSQL, Oracle, Pandas y modelado MER/MR." width="580" /></td>
+<td width="50%"><img src="assets/tecnologias-redes.svg" alt="Redes y seguridad: Cisco IOS, FortiOS/FortiGate, FortiManager, Huawei, Active Directory y hardening. SSH, SNMP, LDAP, RDP, NTP, TACACS+, MPLS y SD-WAN." width="580" /></td>
+</tr>
 </table>
 
 ![Detalle rojo animado](assets/borde-rojo.svg)
 
 ### Experiencia práctica
 
-**GTD Teleductos · Práctica intermedia de Ingeniería Civil Informática**  
-Diciembre de 2025 – enero de 2026. Desarrollo de una aplicación web para auditorías de hardening con Python, Flask, Netmiko, MongoDB y Active Directory.
-
-**GTD Teleductos · Práctica técnica en Telecomunicaciones**  
-Noviembre de 2021 – enero de 2022. Instalación y configuración de redes, apoyo en radioenlaces y soporte en terreno.
+![GTD Teleductos. Práctica intermedia de Ingeniería Civil Informática: diciembre de 2025 a enero de 2026, aplicación web de auditorías de hardening con Python, Flask, Netmiko, MongoDB y Active Directory. Práctica técnica en Telecomunicaciones: noviembre de 2021 a enero de 2022, instalación y configuración de redes, radioenlaces y soporte en terreno.](assets/experiencia.svg)
 
 ![Detalle rojo animado](assets/borde-rojo.svg)
 
 ### Formación complementaria
 
-- Formación Cisco: **CCNA 1, CCNA 2 e IT Essentials**.
-- Técnico de nivel medio en **Telecomunicaciones**.
-- Curso de instalación de fibra óptica · Fundación Carlos Slim.
-- Inglés técnico.
+![Formación Cisco: CCNA 1, CCNA 2 e IT Essentials. Técnico de nivel medio en Telecomunicaciones. Curso de instalación de fibra óptica, Fundación Carlos Slim. Inglés técnico.](assets/formacion.svg)
 
-![Detalle rojo animado](assets/borde-rojo.svg)
-
-<p align="center"><strong>Software con propósito. Automatización para simplificar tareas.</strong><br>Santiago / Valparaíso, Chile.</p>
-
-
-![Cierre rojo animado](assets/borde-rojo.svg)
+![Animación decorativa: paquetes viajando por una red con órbitas y pulsos rojos.](assets/red-animada.svg)
