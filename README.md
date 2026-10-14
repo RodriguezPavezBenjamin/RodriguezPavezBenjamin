@@ -4,13 +4,7 @@
 
 ---
 
-### Sobre mí
-
-Soy Benjamín, estudiante de quinto año de Ingeniería Civil Informática en la **Pontificia Universidad Católica de Valparaíso**, con formación técnica en Telecomunicaciones.
-
-Me interesa construir herramientas que resuelvan necesidades reales: desde aplicaciones web y de escritorio hasta la automatización de tareas de redes y seguridad. En mi práctica intermedia desarrollé una aplicación web para automatizar auditorías de hardening en equipos Cisco, Fortinet y Huawei.
-
-### Proyectos destacados
+### 🚀 Proyectos destacados
 
 <table>
 <tr>
@@ -41,7 +35,20 @@ Me interesa construir herramientas que resuelvan necesidades reales: desde aplic
 
 **Otros proyectos:** [Kuromitz2](https://github.com/RodriguezPavezBenjamin/Kuromitz2), prototipo colaborativo de recomendaciones de películas y series con Ionic y Angular; y [Proyecto-GM-final](https://github.com/RodriguezPavezBenjamin/Proyecto-GM-final), videojuego académico en Java con libGDX.
 
-### Tecnologías y áreas de trabajo
+### 💻 Lenguajes
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&amp;theme=dark" alt="Python, Java, C, JavaScript, HTML y CSS" />
+</p>
+<p align="center"><sub>Python · Java · C · JavaScript · HTML · CSS</sub></p>
+
+### 🧩 Herramientas y tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,angular,typescript,nestjs,fastapi,mongodb,mysql,postgres,git,docker&amp;theme=dark&amp;perline=5" alt="Flask, Angular, TypeScript, NestJS, FastAPI, MongoDB, MySQL, PostgreSQL, Git y Docker" />
+</p>
+
+### Redes, datos y automatización
 
 | Área | Conocimientos y herramientas |
 | :--- | :--- |
@@ -52,7 +59,7 @@ Me interesa construir herramientas que resuelvan necesidades reales: desde aplic
 | Protocolos y redes | SSH, SNMP, LDAP, RDP, NTP, TACACS+, MPLS y SD-WAN |
 | Trabajo con código | Git y control de versiones; Docker y CI en proyectos |
 
-### Experiencia práctica
+### 🛠️ Experiencia práctica
 
 **GTD Teleductos · Práctica intermedia de Ingeniería Civil Informática**  
 Diciembre de 2025 – enero de 2026. Desarrollo de una aplicación web para auditorías de hardening con Python, Flask, Netmiko, MongoDB y Active Directory.
@@ -60,7 +67,7 @@ Diciembre de 2025 – enero de 2026. Desarrollo de una aplicación web para audi
 **GTD Teleductos · Práctica técnica en Telecomunicaciones**  
 Noviembre de 2021 – enero de 2022. Instalación y configuración de redes, apoyo en radioenlaces y soporte en terreno.
 
-### Formación complementaria
+### 🎓 Formación complementaria
 
 - Formación Cisco: **CCNA 1, CCNA 2 e IT Essentials**.
 - Técnico de nivel medio en **Telecomunicaciones**.
