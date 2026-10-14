@@ -1,0 +1,40 @@
+name: Actualizar actividad espacial
+
+on:
+  schedule:
+    - cron: '23 9 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generar_actividad.py
+      - .github/workflows/actividad-nave.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actividad-espacial
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Obtener el perfil
+        uses: actions/checkout@v4
+      - name: Generar calendario con datos públicos
+        run: python3 scripts/generar_actividad.py
+      - name: Guardar solamente la imagen generada
+        run: |
+          if git diff --quiet -- assets/actividad-nave.svg; then
+            echo 'El calendario ya está actualizado.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- assets/actividad-nave.svg
+          git commit -m 'chore: actualizar calendario de actividad espacial'
+          git pull --rebase origin main
+          git push origin HEAD:main
