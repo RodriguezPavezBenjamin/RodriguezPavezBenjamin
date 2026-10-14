@@ -1,6 +1,6 @@
 ![Benjamín Rodríguez Pavez — Software, automatización y redes](assets/banner.svg)
 
-![Estudiante de Ingeniería Civil Informática · PUCV. Desarrollo de software · Automatización de redes · Ciberseguridad.](assets/presentacion-datos.svg)
+![Estudiante de Ingeniería Civil Informática · PUCV. Desarrollo de software · Automatización de redes · Ciberseguridad.](assets/presentacion-panel.svg)
 
 ![Detalle rojo animado](assets/borde-rojo.svg)
 
