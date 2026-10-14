@@ -1,6 +1,6 @@
 ![Benjamín Rodríguez Pavez — Software, automatización y redes](assets/banner.svg)
 
-<p align="center"><strong>Estudiante de Ingeniería Civil Informática · PUCV</strong><br>Desarrollo de software · Automatización de redes · Ciberseguridad</p>
+![Estudiante de Ingeniería Civil Informática · PUCV. Desarrollo de software · Automatización de redes · Ciberseguridad.](assets/presentacion-datos.svg)
 
 ![Detalle rojo animado](assets/borde-rojo.svg)
 
@@ -17,7 +17,6 @@
 </tr>
 </table>
 
-**Otros proyectos:** [Kuromitz2](https://github.com/RodriguezPavezBenjamin/Kuromitz2), prototipo colaborativo de recomendaciones de películas y series con Ionic y Angular; y [Proyecto-GM-final](https://github.com/RodriguezPavezBenjamin/Proyecto-GM-final), videojuego académico en Java con libGDX.
 
 ### Tecnologías y conocimientos
 
