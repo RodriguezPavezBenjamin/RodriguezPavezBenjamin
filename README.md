@@ -45,3 +45,7 @@
 ![Formación Cisco: CCNA 1, CCNA 2 e IT Essentials. Técnico de nivel medio en Telecomunicaciones. Curso de instalación de fibra óptica, Fundación Carlos Slim. Inglés técnico.](assets/formacion.svg)
 
 ![Animación decorativa: paquetes viajando por una red con órbitas y pulsos rojos.](assets/red-animada.svg)
+
+### Actividad en GitHub
+
+![Calendario de contribuciones públicas: nave en movimiento con disparos simples, dobles, triples o de plasma según la intensidad de cada día. Actualización diaria.](assets/actividad-nave.svg)
