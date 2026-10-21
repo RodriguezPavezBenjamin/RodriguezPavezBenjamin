@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
 <title id="title">Actividad en GitHub: 83 contribuciones</title>
-<desc id="desc">Calendario público hasta 20/10/2026. La nave visita todos los días activos. Nivel 1: disparo simple; nivel 2: doble; nivel 3: triple; nivel 4: ráfaga de plasma. Los días sin actividad no reciben disparos.</desc>
+<desc id="desc">Calendario público hasta 21/10/2026. La nave visita todos los días activos. Nivel 1: disparo simple; nivel 2: doble; nivel 3: triple; nivel 4: ráfaga de plasma. Los días sin actividad no reciben disparos.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#24111e"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="halo"><stop stop-color="#f04462" stop-opacity=".16"/><stop offset="1" stop-color="#f04462" stop-opacity="0"/></radialGradient><filter id="glow" x="-150%" y="-100%" width="400%" height="300%"><feGaussianBlur stdDeviation="2"/></filter></defs>
 <rect x="1" y="1" width="1198" height="428" rx="22" fill="url(#bg)" stroke="#73313d"/>
 <ellipse cx="1040" cy="85" rx="210" ry="130" fill="url(#halo)"/>
@@ -384,6 +384,7 @@
 <rect x="1110.00" y="126.00" width="16.00" height="16.00" rx="3" fill="#ff8ca3" data-date="2026-10-18" data-level="4" data-count="5"><title>2026-10-18: 5 contribuciones</title></rect>
 <rect x="1110.00" y="146.00" width="16.00" height="16.00" rx="3" fill="#ff8ca3" data-date="2026-10-19" data-level="4" data-count="9"><title>2026-10-19: 9 contribuciones</title></rect>
 <rect x="1110.00" y="166.00" width="16.00" height="16.00" rx="3" fill="#23151f" data-date="2026-10-20" data-level="0" data-count="0"><title>2026-10-20: 0 contribuciones</title></rect>
+<rect x="1110.00" y="186.00" width="16.00" height="16.00" rx="3" fill="#23151f" data-date="2026-10-21" data-level="0" data-count="0"><title>2026-10-21: 0 contribuciones</title></rect>
 <text x="34" y="159.00" fill="#a67a8b" font-family="Segoe UI,Arial,sans-serif" font-size="11">Lun</text>
 <text x="34" y="199.00" fill="#a67a8b" font-family="Segoe UI,Arial,sans-serif" font-size="11">Mié</text>
 <text x="34" y="239.00" fill="#a67a8b" font-family="Segoe UI,Arial,sans-serif" font-size="11">Vie</text>
@@ -551,4 +552,4 @@
 <ellipse cx="0" cy="17" rx="10" ry="16" fill="#ff3a6b" opacity=".28" filter="url(#glow)"/>
 <path d="M-5 10 0 29 5 10" fill="#ff5a7d"><animate attributeName="d" values="M-5 10 0 29 5 10;M-5 10 0 21 5 10;M-5 10 0 29 5 10" dur=".3s" repeatCount="indefinite"/></path>
 <path d="M0-22 8-4 21 14 6 9 0 14-6 9-21 14-8-4Z" fill="#f9dbe4" stroke="#ff728f" stroke-width="1.4" stroke-linejoin="round"/><path d="M0-13 4 1 0 5-4 1Z" fill="#b52b54"/><path d="M-15 10-7 6M15 10 7 6" stroke="#a72e50" stroke-width="2"/></g>
-<g font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#b48295"><text x="35" y="408">Intensidad real de GitHub: simple · doble · triple · plasma</text><text x="1164" y="408" text-anchor="end">Actualizado: 20/10/2026</text></g></svg>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#b48295"><text x="35" y="408">Intensidad real de GitHub: simple · doble · triple · plasma</text><text x="1164" y="408" text-anchor="end">Actualizado: 21/10/2026</text></g></svg>
